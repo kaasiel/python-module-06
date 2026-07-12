@@ -1,5 +1,5 @@
-from ..potions import create_air, strength_potion
-from alchemy import create_fire
+from ..potions import strength_potion
+from alchemy import create_fire, create_air
 
 
 def lead_to_gold() -> str:
